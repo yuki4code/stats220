@@ -4,6 +4,6 @@
 
 https://github.com/yukicodemaster/stats220
 
-## some information about the purpose of the repo
+### some information about the purpose of the repo
 
 This is my **homework** for STATS220, as well as *my understanding and application* of the knowledge of this course.
