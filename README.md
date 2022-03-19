@@ -2,7 +2,7 @@
 
 ## a link to the website for my stats220 repo
 
-https://github.com/yukicodemaster/stats220
+https://github.com/yuki4code/stats220
 
 ### some information about the purpose of the repo
 
